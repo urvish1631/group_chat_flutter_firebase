@@ -50,19 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBg9bW4IjV0c4VFmCBjgQmBxPAfI-rlFUA',
-    appId: '1:627982565936:android:bc060d5e157426529d63f5',
-    messagingSenderId: '627982565936',
-    projectId: 'group-chat-flutter-1eb30',
-    storageBucket: 'group-chat-flutter-1eb30.appspot.com',
+    apiKey: 'AIzaSyDme_i0lyMuykBTxOyBsD1lDDm_X5yVqSU',
+    appId: '1:6157852440:android:33cc4a0e333d35f149086d',
+    messagingSenderId: '6157852440',
+    projectId: 'group-chat-firebase-3ab95',
+    storageBucket: 'group-chat-firebase-3ab95.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAS6FZYlSXLhQaYtOn1z8nBcnqQ3YEnG4E',
-    appId: '1:627982565936:ios:d3565cb2c13933be9d63f5',
-    messagingSenderId: '627982565936',
-    projectId: 'group-chat-flutter-1eb30',
-    storageBucket: 'group-chat-flutter-1eb30.appspot.com',
+    apiKey: 'AIzaSyAR3xWZxxtTqFqugaLOnJ3M1Wa2CNXjI_w',
+    appId: '1:6157852440:ios:fefaf7d49ef0b4a449086d',
+    messagingSenderId: '6157852440',
+    projectId: 'group-chat-firebase-3ab95',
+    storageBucket: 'group-chat-firebase-3ab95.appspot.com',
     iosBundleId: 'com.example.groupChatFlutter',
   );
+
 }

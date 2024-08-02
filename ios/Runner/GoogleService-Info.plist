@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyAS6FZYlSXLhQaYtOn1z8nBcnqQ3YEnG4E</string>
+	<string>AIzaSyAR3xWZxxtTqFqugaLOnJ3M1Wa2CNXjI_w</string>
 	<key>GCM_SENDER_ID</key>
-	<string>627982565936</string>
+	<string>6157852440</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.groupChatFlutter</string>
 	<key>PROJECT_ID</key>
-	<string>group-chat-flutter-1eb30</string>
+	<string>group-chat-firebase-3ab95</string>
 	<key>STORAGE_BUCKET</key>
-	<string>group-chat-flutter-1eb30.appspot.com</string>
+	<string>group-chat-firebase-3ab95.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:627982565936:ios:d3565cb2c13933be9d63f5</string>
+	<string>1:6157852440:ios:fefaf7d49ef0b4a449086d</string>
 </dict>
 </plist>
